@@ -1,0 +1,9 @@
+<!DOCTYPE >
+<html>
+<head>
+<title>web</title>
+</head>
+<body>
+<h1> hello this is aravind</h1>
+</body>
+</html>
